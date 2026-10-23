@@ -5,7 +5,7 @@ A real-time cricket match dashboard built using Python and Streamlit. The applic
 ## Features
 
 - Live cricket match data from an API
-- Automatic refresh every 60 seconds
+- Automatic refresh every 10 minutes
 - Manual refresh option
 - Match status filtering
 - Search matches by keyword
