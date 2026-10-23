@@ -1,4 +1,13 @@
-# Cricbuzz LiveStats
+# 🏏 Cricbuzz LiveStats
+
+### Your Cricket Live Statistics Dashboard
+
+A real-time cricket dashboard built with Python, Streamlit, and the CricketData API.
+
+## 📸 Dashboard Screenshot
+
+![Cricbuzz LiveStats Dashboard](cricket_dashboard.png)
+
 
 A real-time cricket match dashboard built using Python and Streamlit. The application fetches cricket match information from the CricketData API and displays match status, scores, teams, venues, and dates.
 
