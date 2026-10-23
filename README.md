@@ -32,7 +32,6 @@ cricbuzz-livestats/
 ├── test_api.py
 ├── requirements.txt
 ├── .gitignore
-├── .env
 └── data/
     └── matches.csv
 ```
